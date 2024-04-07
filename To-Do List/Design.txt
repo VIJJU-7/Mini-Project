@@ -1,0 +1,18 @@
+<HTML>
+
+* Create a labels for Date and Add Your Tasks.
+* Create a Date first and by clicking that it should open a claendar using a icon or something.
+* Next Craete a Button for Adding Tasks.
+* Create a Tabular Form For Adding tasks in it.
+* And if we want to create a delete button to delete a task or we can use checkboxes for our completed tasks.
+
+CSS/<Style>
+
+* Craete a good Styling for the given Html page.
+* If we create a CSS External use this external file in the HTML document by using link rel and href tags.
+
+JS (JavaScript)
+
+* For Adding Tasks which we have typed in the textarea filed for that we have to use functions.
+* Addbutton, Table, date, this all can be used in JS.
+* ALl the add and delete or checkbox functions can be used through javascript.
