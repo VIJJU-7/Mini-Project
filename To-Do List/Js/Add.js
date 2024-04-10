@@ -6,11 +6,26 @@ var tableBody = document.querySelector('tbody');
 
 addButton.addEventListener('click', function() {
 
-    if (!dateInput.value || !messageInput.value) {
-        alert('Some Fields Are Missing !!!!');
+    // if (!dateInput.value || !messageInput.value) {
+    //     alert('Some Fields Are Missing !!!!');
+    //     return;
+    // }
+    
+    var currentDate = new Date();
+    var inputDate = new Date(dateInput.value);
+    if (inputDate < currentDate) {
+        alert('Please select a valid future date!');
         return;
     }
-    
+    if (!dateInput.value) {
+        alert('Please enter a date!');
+        return;
+    }
+    if (!messageInput.value) {
+        alert('Please enter a message!');
+        return;
+    }
+
     var row = document.createElement('tr');
     var dateCell = document.createElement('td');
     var messageCell = document.createElement('td');
