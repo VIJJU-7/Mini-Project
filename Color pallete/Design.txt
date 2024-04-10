@@ -1,4 +1,4 @@
-<HTML>/<CSS>
+<HTML>
 
 * We are creating a color pallette which we can choose a color by giving an color name in the input field from the given pallette boxes.
 
