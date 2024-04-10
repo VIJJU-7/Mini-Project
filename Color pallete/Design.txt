@@ -1,6 +1,6 @@
 <HTML>/<CSS>
 
-* We are creating a color pallette which we can choose a color by giving an color name in the input field from the           given pallette boxes.
+* We are creating a color pallette which we can choose a color by giving an color name in the input field from the given pallette boxes.
 
 * We cannot give name any color which are not shown in the pallette boxes.
 
