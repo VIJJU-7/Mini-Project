@@ -1,0 +1,43 @@
+<HTML>/<CSS>
+
+* We are creating a color pallette which we can choose a color by giving an color name in the input field from the           given pallette boxes.
+
+* We cannot give name any color which are not shown in the pallette boxes.
+
+* First we have to create a HTML page which contains all the elements which we needed.
+
+* In that HTML page we need Number of pallette boxes (required boxes).
+  
+* Input field which we want to enter a color name.
+ 
+* And another Random generated color box which will be the output for the given color.
+
+* And I want to create a button which will include Change Color Button and Reset color button.
+ 
+* A background image which will be suited.
+
+
+<CSS>
+
+* In this I will create an external CSS Page.
+
+* Font style, font size, colors,,etc. 
+
+* Have to give the pallette boxes colors and all the reuired styles which are required. 
+
+
+<JavaScript>
+
+* In this I will create an external page and link it to HTML page.
+ 
+* We need to use a functions which will be work for pallette boxes thaht changes the colors randomly by giving a color name. 
+
+* And also it should be wroking with given pallette boxes only and other color names should not accept.
+
+* Button functions which will be changes the color by clicking it.
+
+* As for as reset button also.
+ 
+*  If we want to add a alert messages for which we are not given any name in input field  it should display please ener a color for example.
+
+* If we give any name like its not a color it should display that color not found etc. 
